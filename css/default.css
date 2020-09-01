@@ -1,0 +1,93 @@
+/*theme default css*/
+/*=======================*/
+.f-right{
+	float: right;
+}
+.f-left{
+	float: left;
+}
+.d-flex{
+	display: flex;
+}
+
+.pt-50{
+	padding-top: 40px;
+}
+.pb-50{
+	padding-bottom: 40px;
+}
+.pbt-60{
+  padding: 60px 0px;
+}
+.ptb-90{
+  padding: 90px 0px;
+}
+.ptb-100{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.plf-75{
+  padding: 0px 75px;
+}
+.mar-bot-50 {
+  margin-bottom: 50px; 
+}
+
+.mar-bot-40 {
+  margin-bottom: 40px; 
+}
+
+.mar-bot-35 {
+  margin-bottom: 35px; 
+}
+
+.mar-bot-30 {
+  margin-bottom: 30px; 
+}
+
+.margin-minas {
+  margin-bottom: -50px; 
+}
+
+.mar-top-30 {
+  margin-top: 30px; 
+}
+
+.mar-top-80 {
+  margin-top: 80px;
+}
+
+.mar-top-80 {
+  margin-top: 80px; 
+}
+
+.mar-top-55 {
+  margin-top: 55px; 
+}
+
+.mar-top-108 {
+  margin-top: 108px; 
+}
+
+.text-left {
+  text-align: left; 
+}
+
+.text-center {
+  text-align: center; 
+}
+
+.text-right {
+  text-align: right; 
+}
+
+.theme-bg{
+    background-color: #505cfd;
+}
+.header-bg{
+	 background-color: #EAEAFB;
+  }
+  .footer-bg{
+  	background-color: #FFE8F1;
+  }
+ 
